@@ -1,0 +1,25 @@
+.demo
+{
+  border: 1px solid black;
+}
+.done
+{
+color: blue;
+}
+.pending
+{
+color: red;
+}
+
+.software
+{
+  color: blue;
+}
+.manager
+{
+  color: chartreuse;
+}
+.developer
+{
+color:blue;
+}
